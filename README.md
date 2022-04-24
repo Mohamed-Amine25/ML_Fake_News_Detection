@@ -116,9 +116,9 @@ try executing the command :
 pip3 install "scikit_learn==0.22.2.post1"
 ### Interface
 
-![plot](./images/"Site en état de marche".png)<br/>
+![plot](https://github.com/Mohamed-Amine25/ML_Fake_News_Detection/blob/d349875f1e4e4ec997466b0ab6eaed8f27df0885/images/Site%20en%20%C3%A9tat%20de%20marche.png)<br/>
 
-![plot](./images/"Résultat d'analyse".png)
+![plot](https://github.com/Mohamed-Amine25/ML_Fake_News_Detection/blob/d349875f1e4e4ec997466b0ab6eaed8f27df0885/images/R%C3%A9sultat%20d'analyse.png)
 
 ### executing the application 
 python app.py
