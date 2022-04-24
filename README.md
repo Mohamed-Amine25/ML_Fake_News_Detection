@@ -98,11 +98,11 @@ Below is the Process Flow of the project:
 Below is the learning curves for our candidate models. 
 
 **Logistic Regression Classifier**
-.\Fake_News_Detection\images\LR_LCurve.PNG
+.\images\LR_LCurve.PNG
 
 
 **Random Forest Classifier**
-.\Fake_News_Detection\images\RF_LCurve.PNG
+.\images\RF_LCurve.PNG
 
 
 ### Next steps
