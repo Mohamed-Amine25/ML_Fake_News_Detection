@@ -102,7 +102,7 @@ Below is the learning curves for our candidate models.
 
 
 **Random Forest Classifier**
-![plot](.\images\RF_LCurve.PNG)
+![plot](.\images\RF_LCurve.png)
 
 
 ### Next steps
