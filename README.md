@@ -110,12 +110,15 @@ Below is the learning curves for our candidate models.
 
 ### Next steps
 As we can see that our best performing models had an f1 score in the range of 70's. This is due to less number of data that we have used for training purposes and simplicity of our models. For the future implementations, we could introduce some more feature selection methods such as POS tagging, word2vec and topic modeling. In addition, we could also increase the training data size. We will extend this project to implement these techniques in future to increase the accuracy and performance of our models.
-###Common Error 
+### Common Error 
 if during the execution you have the error : ModuleNotFoundError: No module named 'sklearn.linear_model._logistic'
 try executing the command :
 pip3 install "scikit_learn==0.22.2.post1"
+### Interface<br/>
+![plot](./images/Site en état de marche.png)<br/>
+![plot](./images/Résultat d'analyse.png)
 
-#executing the application 
+### executing the application 
 python app.py
 
 
