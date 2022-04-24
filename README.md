@@ -97,11 +97,11 @@ Below is the Process Flow of the project:
 ### Performance
 Below is the learning curves for our candidate models. 
 
-**Logistic Regression Classifier**|
+**Logistic Regression Classifier**<br/>
 ![plot](./images/LR_LCurve.PNG)
 
 
-**Random Forest Classifier**|
+**Random Forest Classifier**<br/>
 ![plot](./images/RF_LCurve.png)
 
 
