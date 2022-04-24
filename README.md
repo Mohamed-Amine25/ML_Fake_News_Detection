@@ -114,9 +114,10 @@ As we can see that our best performing models had an f1 score in the range of 70
 if during the execution you have the error : ModuleNotFoundError: No module named 'sklearn.linear_model._logistic'
 try executing the command :
 pip3 install "scikit_learn==0.22.2.post1"
-### Interface<br/>
-![plot](./images/Site en état de marche.PNG)<br/>
-![plot](./images/Résultat d'analyse.PNG)
+### Interface
+
+![plot](./images/Site en état de marche.png)<br/>
+![plot](./images/Résultat d'analyse.png)
 
 ### executing the application 
 python app.py
