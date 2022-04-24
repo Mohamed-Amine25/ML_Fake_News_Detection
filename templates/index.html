@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+  <link rel="stylesheet" href="static/css/styles.css">
+  <title>Détecteur de fausses nouvelles</title>
+  <link href="static/css/jquery.flexdatalist.min.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+  <div class="main-container">
+  <h1>Bienvenue dans le détecteur de fausses nouvelles!</h1>
+  <br><br>
+
+  <form action="/result" method ="GET">   <!-- form tag for user input, action is for the following function-->
+
+    <p>Entrez le texte ici:</p>
+
+    <input type="text" name="user_input" size="50" placeholder="Copiez et collez les nouvelles ici"
+    class="flexdata"
+    required>
+    <br><br>
+    <input type="submit" value = "Consultez cette actualité" class="btn btn-primary">
+  </form>
+  <br><br><br>
+  <a href='/about'>À propos du détecteur</a>
+  <br>
+  <a href='/info'>Plus d'informations sur la façon d'éviter les fausses nouvelles</a>
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha384-ZvpUoO/+PpLXR1lu4jmpXWu80pZlYUAfxl5NsBMWOEPSjUn/6Z/hRTt8+pR6L4N2" crossorigin="anonymous"></script></script>
+</div>
+</body>
+
+<script src="static/js/jquery.flexdatalist.min.js"></script>  <!-- has to be outside the html-body -->
+<script type="text/javascript" src="static/js/script.js"></script>
+
+
+</html>
