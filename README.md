@@ -115,8 +115,8 @@ if during the execution you have the error : ModuleNotFoundError: No module name
 try executing the command :
 pip3 install "scikit_learn==0.22.2.post1"
 ### Interface<br/>
-![plot](./images/Site en état de marche.png)<br/>
-![plot](./images/Résultat d'analyse.png)
+![plot](./images/Site en état de marche.PNG)<br/>
+![plot](./images/Résultat d'analyse.PNG)
 
 ### executing the application 
 python app.py
